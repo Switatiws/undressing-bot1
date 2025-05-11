@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/anypay-verification.txt",
+      "destination": "/anypay-verification.txt"
+    }
+  ]
+}
